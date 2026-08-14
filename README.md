@@ -37,3 +37,12 @@ Right Now it looks pretty stable, stabler than the Rootkit version(tho it has le
 
 # NOTE:
 Since it calculates offsets by downloading pdb of target file from internet, it needs admin privs to get ntoskrnl.exe and also if you need to load the driver it needs to  have admin privs.
+
+
+## Disclaimer
+
+This tool is designed and provided for educational, research, and authorized security assessment purposes only. 
+
+Using this software against targets without prior mutual, explicit, and written consent is illegal. It is the end user's sole responsibility to comply with all applicable local, state, and international laws. 
+
+The author(s) and contributor(s) assume no liability and are not responsible for any misuse, damage, or legal consequences caused by this program.
